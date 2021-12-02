@@ -1,0 +1,5 @@
+SOURCE_REPOSITORY_URL=https://github.com/sumiranchugh/enablement-ci-cd.git
+NAME=jenkins
+SOURCE_REPOSITORY_CONTEXT_DIR=jenkins-s2i
+SOURCE_REPOSITORY_PASSWORD=${GIT_TOKEN}
+SOURCE_REPOSITORY_USERNAME=sumiranchugh
